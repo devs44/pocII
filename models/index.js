@@ -1,9 +1,9 @@
 const {Sequelize,Datatypes,Model}=require('sequelize')
 
-const sequelize=new Sequelize('document_verification','postgres','Samsung#123',{
+const sequelize=new Sequelize('document_verification','root','devi',{
   host:'localhost',
   logging:true,
-  dialect:'postgres'
+  dialect:'mysql'
 });
 
 try{

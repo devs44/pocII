@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "Samsung#123",
+    "username": "root",
+    "password": "devi",
     "database": "document_verification",
     "host": "127.0.0.1",
-    "dialect": "postgres"
+    "dialect": "mysql"
   },
   "test": {
-    "username": "postgres",
-    "password": "Samsung#123",
+    "username": "root",
+    "password": "devi",
     "database": "document_verification",
     "host": "127.0.0.1",
-    "dialect": "postgres"
+    "dialect": "mysql"
   },
   "production": {
-    "username": "postgres",
-    "password": "Samsung#123",
+    "username": "root",
+    "password": "devi",
     "database": "document_verification",
     "host": "127.0.0.1",
-    "dialect": "postgres"
+    "dialect": "mysql"
   }
 }
