@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Samsung#123",
+    "database": "document_verification",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Samsung#123",
+    "database": "document_verification",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Samsung#123",
+    "database": "document_verification",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
